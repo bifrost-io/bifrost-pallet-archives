@@ -1,0 +1,5 @@
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/build/syn-a022c7940a44d35e/build_script_build-a022c7940a44d35e: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-1.0.109/build.rs
+
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/build/syn-a022c7940a44d35e/build_script_build-a022c7940a44d35e.d: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-1.0.109/build.rs
+
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/syn-1.0.109/build.rs:

@@ -1,0 +1,11 @@
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/deps/libsp_arithmetic-2086b2191c26d03d.rmeta: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/biguint.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/helpers_128bit.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/traits.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/per_things.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/fixed_point.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/rational.rs
+
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/deps/sp_arithmetic-2086b2191c26d03d.d: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/biguint.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/helpers_128bit.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/traits.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/per_things.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/fixed_point.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/rational.rs
+
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/lib.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/biguint.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/helpers_128bit.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/traits.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/per_things.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/fixed_point.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-arithmetic-3.0.0/src/rational.rs:

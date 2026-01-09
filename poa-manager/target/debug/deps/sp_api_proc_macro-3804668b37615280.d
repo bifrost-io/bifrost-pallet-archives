@@ -1,0 +1,9 @@
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/deps/libsp_api_proc_macro-3804668b37615280.so: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/impl_runtime_apis.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/mock_impl_runtime_apis.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/decl_runtime_apis.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/utils.rs
+
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/deps/sp_api_proc_macro-3804668b37615280.d: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/impl_runtime_apis.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/mock_impl_runtime_apis.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/decl_runtime_apis.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/utils.rs
+
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/lib.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/impl_runtime_apis.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/mock_impl_runtime_apis.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/decl_runtime_apis.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-api-proc-macro-3.0.0/src/utils.rs:

@@ -1,0 +1,14 @@
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/deps/libserde-f520b0ebd5999679.rmeta: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/build/serde-50be398e3de6a858/out/private.rs
+
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/deps/libserde-f520b0ebd5999679.rlib: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/build/serde-50be398e3de6a858/out/private.rs
+
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/deps/serde-f520b0ebd5999679.d: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/build/serde-50be398e3de6a858/out/private.rs
+
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/build/serde-50be398e3de6a858/out/private.rs:
+
+# env-dep:OUT_DIR=/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/voucher/target/debug/build/serde-50be398e3de6a858/out

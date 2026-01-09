@@ -1,0 +1,11 @@
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/deps/libarrayvec-ab00e6ade4f06cc5.rmeta: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/maybe_uninit_stable.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/array.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/array_string.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/char.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/range.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/errors.rs
+
+/home/mjl/bifrost_ws/depre/bifrost-pallet-archives/poa-manager/target/debug/deps/arrayvec-ab00e6ade4f06cc5.d: /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/lib.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/maybe_uninit_stable.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/array.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/array_string.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/char.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/range.rs /home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/errors.rs
+
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/lib.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/maybe_uninit_stable.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/array.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/array_string.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/char.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/range.rs:
+/home/mjl/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arrayvec-0.4.12/src/errors.rs:
